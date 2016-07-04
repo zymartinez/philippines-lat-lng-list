@@ -26,9 +26,9 @@ Abra,Tayum,17.617; 120.650
 Abra,Tineg,17.767; 120.933
 Abra,Tubo,17.167; 120.717
 Abra,Villaviciosa,17.433; 120.633
-Agusan del Norte,Butuan City,""
+Agusan del Norte,Butuan City,8.95; 125.53
 Agusan del Norte,Buenavista,8.967; 125.417
-Agusan del Norte,Cabadbaran,""
+Agusan del Norte,Cabadbaran,9.117; 125.533
 Agusan del Norte,Carmen,8.983; 125.300
 Agusan del Norte,Jabonga,9.350; 125.517
 Agusan del Norte,Kitcharao,9.450; 125.567
@@ -38,7 +38,7 @@ Agusan del Norte,Nasipit,""
 Agusan del Norte,Remedios T. Romualdez,9.05361; 125.58667
 Agusan del Norte,Santiago,9.267; 125.567
 Agusan del Norte,Tubay,9.167; 125.533
-Agusan del Sur,Bayugan,""
+Agusan del Sur,Bayugan,8.717; 125.750
 Agusan del Sur,Bunawan,8.167; 126.000
 Agusan del Sur,Esperanza,8.683; 125.650
 Agusan del Sur,La Paz,8.267; 125.800
@@ -69,9 +69,9 @@ Aklan,Nabas,11.833; 122.083
 Aklan,New Washington,11.650; 122.433
 Aklan,Numancia,11.700; 122.333
 Aklan,Tangalan,11.767; 122.250
-Albay,Legazpi City,""
-Albay,Ligao City,""
-Albay,Tabaco City,""
+Albay,Legazpi City,13.13; 123.73
+Albay,Ligao City,13.217; 123.517
+Albay,Tabaco City,13.35944; 123.73028
 Albay,Bacacay,13.300; 123.800
 Albay,Camalig,13.133; 123.667
 Albay,Daraga,13.16194; 123.69389
@@ -120,12 +120,12 @@ Aurora,Dingalan,15.383; 121.400
 Aurora,Dipaculao,15.983; 121.633
 Aurora,Maria Aurora,15.783; 121.467
 Aurora,San Luis,15.717; 121.517
-Basilan,Isabela City,""
+Basilan,Isabela City,6.7; 121.97
 Basilan,Akbar,6.650; 122.217
 Basilan,Al-Barka,6.467; 122.183
 Basilan,Hadji Mohammad Ajul,6.617; 122.300
 Basilan,Hadji Muhtamad,6.633; 121.617
-Basilan,Lamitan,""
+Basilan,Lamitan,6.650; 122.133
 Basilan,Lantawan,6.650; 121.867
 Basilan,Maluso,6.550; 121.883
 Basilan,Sumisip,6.417; 121.983
@@ -151,9 +151,9 @@ Batanes,Ivana,20.367; 121.917
 Batanes,Mahatao,20.417; 121.950
 Batanes,Sabtang,20.333; 121.867
 Batanes,Uyugan,20.350; 121.933
-Batangas,Batangas City,""
-Batangas,Lipa City,""
-Batangas,Tanauan City,""
+Batangas,Batangas City,13.750; 121.050
+Batangas,Lipa City,13.9411; 121.1622
+Batangas,Tanauan City,14.083; 121.150
 Batangas,Agoncillo,13.933; 120.933
 Batangas,Alitagtag,13.867; 121.000
 Batangas,Balayan,13.933; 120.733
@@ -169,7 +169,7 @@ Batangas,Lian,14.033; 120.650
 Batangas,Lobo,13.650; 121.250
 Batangas,Mabini,13.717; 120.900
 Batangas,Malvar,14.04056; 121.15444
-Batangas,Mataas na Kahoy,""
+Batangas,Mataas na Kahoy,13.967; 121.083
 Batangas,Nasugbu,14.067; 120.633
 Batangas,Padre Garcia,13.883; 121.217
 Batangas,Rosario,13.850; 121.200
@@ -185,7 +185,7 @@ Batangas,Talisay,14.100; 121.017
 Batangas,Taysan,13.74194; 121.22306
 Batangas,Tingloy,13.650; 120.867
 Batangas,Tuy,14.017; 120.733
-Benguet,Baguio City,""
+Benguet,Baguio City,16.42; 120.6
 Benguet,Atok,16.58333; 120.7
 Benguet,Bakun,16.7922; 120.6653
 Benguet,Bokod,16.500; 120.833
@@ -207,7 +207,7 @@ Biliran,Culaba,11.650; 124.533
 Biliran,Kawayan,11.683; 124.367
 Biliran,Maripipi,11.783; 124.333
 Biliran,Naval,11.583; 124.450
-Bohol,Tagbilaran City,""
+Bohol,Tagbilaran City,9.65; 123.85
 Bohol,Alburquerque,9.6; 123.95
 Bohol,Alicia,9.9; 124.45
 Bohol,Anda,9.75; 124.57
@@ -255,14 +255,14 @@ Bohol,Trinidad,10.05; 124.35
 Bohol,Tubigon,9.95; 123.97
 Bohol,Ubay,10.05; 124.47
 Bohol,Valencia,9.62; 124.2
-Bukidnon,Malaybalay City,""
-Bukidnon,Valencia City,""
+Bukidnon,Malaybalay City,8.150; 125.133
+Bukidnon,Valencia City,7.900; 125.083
 Bukidnon,Baungon,8.250; 124.717
 Bukidnon,Cabanglasan,8.067; 125.317
 Bukidnon,Damulog,7.483; 124.933
 Bukidnon,Dangcagan,7.617; 125.000
 Bukidnon,Don Carlos,7.683; 125.000
-Bukidnon,Impasug-ong,""
+Bukidnon,Impasug-ong,8.300; 125.000
 Bukidnon,Kadingilan,7.600; 124.917
 Bukidnon,Kalilangan,7.750; 124.750
 Bukidnon,Kibawe,7.567; 124.983
@@ -277,14 +277,14 @@ Bukidnon,Quezon,7.733; 125.100
 Bukidnon,San Fernando,7.917; 125.333
 Bukidnon,Sumilao,8.283; 124.950
 Bukidnon,Talakag,8.233; 124.600
-Bulacan,Malolos City,""
-Bulacan,Meycauayan City,""
-Bulacan,San Jose del Monte City,""
+Bulacan,Malolos City,14.84333; 120.81139
+Bulacan,Meycauayan City,14.733; 120.950
+Bulacan,San Jose del Monte City,14.81389; 121.04528
 Bulacan,Angat,14.933; 121.033
 Bulacan,Balagtas,14.817; 120.867
 Bulacan,Baliuag,14.950; 120.883
 Bulacan,Bocaue,14.800; 120.933
-Bulacan,Bulacan,""
+Bulacan,Bulacan,14.79306; 120.87889
 Bulacan,Bustos,14.950; 120.917
 Bulacan,Calumpit,14.917; 120.767
 Bulacan,Doña Remedios Trinidad,15.000; 121.083
@@ -301,7 +301,7 @@ Bulacan,San Ildefonso,15.07889; 120.94194
 Bulacan,San Miguel,15.14583; 120.97833
 Bulacan,San Rafael,14.950; 120.967
 Bulacan,Santa Maria,14.817; 120.950
-Cagayan,Tuguegarao City,""
+Cagayan,Tuguegarao City,17.617; 121.717
 Cagayan,Abulug,18.450; 121.450
 Cagayan,Alcala,17.900; 121.650
 Cagayan,Allacapan,18.250; 121.583
@@ -342,8 +342,8 @@ Camarines Norte,San Vicente,14.100; 122.867
 Camarines Norte,Santa Elena,14.200; 122.383
 Camarines Norte,Talisay,14.133; 122.917
 Camarines Norte,Vinzons,14.183; 122.900
-Camarines Sur,Iriga City,""
-Camarines Sur,Naga City,""
+Camarines Sur,Iriga City,13.417; 123.417
+Camarines Sur,Naga City,13.62; 123.17
 Camarines Sur,Baao,13.45611; 123.36389
 Camarines Sur,Balatan,13.317; 123.233
 Camarines Sur,Bato,13.35611; 123.36389
@@ -384,21 +384,21 @@ Camiguin,Guinsiliban,9.100; 124.783
 Camiguin,Mahinog,9.150; 124.783
 Camiguin,Mambajao,9.250; 124.717
 Camiguin,Sagay,9.117; 124.717
-Capiz,Roxas City,""
+Capiz,Roxas City,11.583; 122.750
 Capiz,Cuartero,11.350; 122.667
 Capiz,Dao,11.400; 122.683
 Capiz,Dumalag,11.300; 122.617
 Capiz,Dumarao,11.267; 122.683
 Capiz,Ivisan,11.517; 122.683
 Capiz,Jamindan,11.400; 122.500
-Capiz,Ma-ayon,""
+Capiz,Ma-ayon,11.383; 122.783
 Capiz,Mambusao,11.433; 122.600
 Capiz,Panay,11.550; 122.800
 Capiz,Panitan,11.467; 122.767
 Capiz,Pilar,11.483; 123.000
 Capiz,Pontevedra,11.483; 122.833
 Capiz,President Roxas,11.433; 122.933
-Capiz,Sapi-an,""
+Capiz,Sapi-an,11.500; 122.600
 Capiz,Sigma,11.417; 122.667
 Capiz,Tapaz,11.267; 122.533
 Catanduanes,Bagamanoc,13.933; 124.283
@@ -412,18 +412,18 @@ Catanduanes,San Andres,13.600; 124.100
 Catanduanes,San Miguel,13.633; 124.300
 Catanduanes,Viga,13.867; 124.300
 Catanduanes,Virac,13.583; 124.233
-Cavite,Cavite City,""
-Cavite,Dasmariñas City,""
-Cavite,Tagaytay City,""
-Cavite,Trece Martires City,""
+Cavite,Cavite City,14.483; 120.900
+Cavite,Dasmariñas City,14.32639; 120.93611
+Cavite,Tagaytay City,14.100; 120.933
+Cavite,Trece Martires City,14.283; 120.850
 Cavite,Alfonso,14.14083; 120.85389
 Cavite,Amadeo,14.167; 120.917
-Cavite,Bacoor,""
+Cavite,Bacoor,14.450; 120.950
 Cavite,Carmona,14.317; 121.050
 Cavite,General Mariano Alvarez,14.300; 121.000
 Cavite,General Emilio Aguinaldo,14.183; 120.800
 Cavite,General Trias,14.383; 120.883
-Cavite,Imus,""
+Cavite,Imus,14.400; 120.933
 Cavite,Indang,14.19528; 120.87694
 Cavite,Kawit,14.433; 120.900
 Cavite,Magallanes,14.18833; 120.75750
@@ -435,15 +435,15 @@ Cavite,Rosario,14.417; 120.850
 Cavite,Silang,14.233; 120.983
 Cavite,Tanza,14.400; 120.833
 Cavite,Ternate,14.283; 120.717
-Cebu,Bogo City,""
-Cebu,Cebu City,""
-Cebu,Carcar City,""
-Cebu,Danao City,""
-Cebu,Lapu-Lapu City,""
-Cebu,Mandaue City,""
-Cebu,Naga City,""
-Cebu,Talisay City,""
-Cebu,Toledo City,""
+Cebu,Bogo City,11.03; 124
+Cebu,Cebu City,10.32; 123.75
+Cebu,Carcar City,10.1; 123.63
+Cebu,Danao City,10.52; 124.03
+Cebu,Lapu-Lapu City,10.31083; 124.015222
+Cebu,Mandaue City,10.33; 123.93
+Cebu,Naga City,10.22; 123.75
+Cebu,Talisay City,10.25; 123.83
+Cebu,Toledo City,10.38; 123.65
 Cebu,Alcantara,9.98; 123.4
 Cebu,Alcoy,9.68; 123.5
 Cebu,Alegria,9.77; 123.38
@@ -473,7 +473,7 @@ Cebu,Minglanilla,10.25; 123.78
 Cebu,Moalboal,9.95; 123.4
 Cebu,Oslob,9.55; 123.4
 Cebu,Pilar,10.8; 124.55
-Cebu,Pinamungahan,""
+Cebu,Pinamungahan,10.27; 123.58
 Cebu,Poro,10.63; 124.42
 Cebu,Ronda,10; 123.4
 Cebu,Samboan,9.53; 123.3
@@ -499,7 +499,7 @@ Compostela Valley,Montevista,7.700; 125.983
 Compostela Valley,Nabunturan,7.600; 125.967
 Compostela Valley,New Bataan,7.533; 126.133
 Compostela Valley,Pantukan,7.150; 125.950
-Cotabato,Kidapawan City,""
+Cotabato,Kidapawan City,7.017; 125.083
 Cotabato,Alamada,7.333; 124.567
 Cotabato,Aleosan,7.150; 124.583
 Cotabato,Antipas,7.250; 125.050
@@ -513,13 +513,13 @@ Cotabato,Magpet,7.100; 125.117
 Cotabato,Makilala,6.967; 125.083
 Cotabato,Matalam,7.083; 124.900
 Cotabato,Midsayap,7.1917; 124.533
-Cotabato,Pigkawayan,""
+Cotabato,Pigkawayan,7.283; 124.433
 Cotabato,Pikit,7.050; 124.667
 Cotabato,President Roxas,7.150; 125.050
 Cotabato,Tulunan,6.833; 124.883
-Davao del Norte,Panabo City,""
+Davao del Norte,Panabo City,7.30833; 125.68333
 Davao del Norte,Island Garden City of Samal,""
-Davao del Norte,Tagum City,""
+Davao del Norte,Tagum City,7.45; 125.8
 Davao del Norte,Asuncion,7.583; 125.767
 Davao del Norte,Braulio E. Dujali,7.450; 125.683
 Davao del Norte,Carmen,7.36056; 125.70639
@@ -529,22 +529,22 @@ Davao del Norte,San Isidro,7.750; 125.733
 Davao del Norte,Santo Tomas,7.533; 125.617
 Davao del Norte,Talaingod,7.617; 125.617
 Davao del Sur,Davao City,""
-Davao del Sur,Digos City,""
+Davao del Sur,Digos City,6.750; 125.350
 Davao del Sur,Bansalan,6.783; 125.217
-Davao del Sur,Don Marcelino,""
+Davao del Sur,Don Marcelino,6.267; 125.667
 Davao del Sur,Hagonoy,6.683; 125.300
-Davao del Sur,Jose Abad Santos,""
+Davao del Sur,Jose Abad Santos,5.917; 125.650
 Davao del Sur,Kiblawan,6.617; 125.217
 Davao del Sur,Magsaysay,6.767; 125.183
 Davao del Sur,Malalag,6.600; 125.400
-Davao del Sur,Malita,""
+Davao del Sur,Malita,6.400; 125.600
 Davao del Sur,Matanao,6.750; 125.233
 Davao del Sur,Padada,6.633; 125.350
 Davao del Sur,Santa Cruz,6.833; 125.417
 Davao del Sur,Santa Maria,6.550; 125.467
-Davao del Sur,Sarangani,""
+Davao del Sur,Sarangani,5.400; 125.467
 Davao del Sur,Sulop,6.600; 125.350
-Davao Oriental,Mati City,""
+Davao Oriental,Mati City,6.950; 126.233
 Davao Oriental,Baganga,7.567; 126.567
 Davao Oriental,Banaybanay,7.100; 126.067
 Davao Oriental,Boston,7.867; 126.367
@@ -558,7 +558,7 @@ Davao Oriental,Tarragona,7.050; 126.450
 Eastern Samar,Arteche,12.267; 125.367
 Eastern Samar,Balangiga,11.117; 125.383
 Eastern Samar,Balangkayan,11.467; 125.500
-Eastern Samar,Borongan,""
+Eastern Samar,Borongan,11.6; 125.43
 Eastern Samar,Can-avid,12.000; 125.450
 Eastern Samar,Dolores,12.050; 125.483
 Eastern Samar,General MacArthur,11.250; 125.533
@@ -594,8 +594,8 @@ Ifugao,Lagawe,16.817; 121.100
 Ifugao,Lamut,16.65000; 121.22500
 Ifugao,Mayoyao,16.967; 121.217
 Ifugao,Tinoc,16.700; 120.900
-Ilocos Norte,Batac City,""
-Ilocos Norte,Laoag City,""
+Ilocos Norte,Batac City,18.050; 120.567
+Ilocos Norte,Laoag City,18.183; 120.583
 Ilocos Norte,Adams,18.467; 120.900
 Ilocos Norte,Bacarra,18.250; 120.617
 Ilocos Norte,Badoc,17.933; 120.467
@@ -617,8 +617,8 @@ Ilocos Norte,San Nicolas,18.17250; 120.59583
 Ilocos Norte,Sarrat,18.167; 120.650
 Ilocos Norte,Solsona,18.100; 120.767
 Ilocos Norte,Vintar,18.23000; 120.64194
-Ilocos Sur,Candon City,""
-Ilocos Sur,Vigan City,""
+Ilocos Sur,Candon City,17.200; 120.450
+Ilocos Sur,Vigan City,17.57; 120.38
 Ilocos Sur,Alilem,16.883; 120.533
 Ilocos Sur,Banayoyo,17.233; 120.483
 Ilocos Sur,Bantay,17.583; 120.383
@@ -627,7 +627,7 @@ Ilocos Sur,Cabugao,17.800; 120.450
 Ilocos Sur,Caoayan,17.533; 120.400
 Ilocos Sur,Cervantes,16.99167; 120.73333
 Ilocos Sur,Galimuyod,17.183; 120.467
-Ilocos Sur,Gregorio Del Pilar,""
+Ilocos Sur,Gregorio Del Pilar,17.133; 120.617
 Ilocos Sur,Lidlidda,17.267; 120.517
 Ilocos Sur,Magsingal,17.68333; 120.42500
 Ilocos Sur,Nagbukel,17.450; 120.550
@@ -651,8 +651,8 @@ Ilocos Sur,Sinait,17.86611; 120.45806
 Ilocos Sur,Sugpon,16.850; 120.517
 Ilocos Sur,Suyo,16.98000; 120.52694
 Ilocos Sur,Tagudin,16.933; 120.450
-Iloilo,Iloilo City,""
-Iloilo,Passi City,""
+Iloilo,Iloilo City,11; 122.67
+Iloilo,Passi City,11.100; 122.633
 Iloilo,Ajuy,11.167; 123.017
 Iloilo,Alimodian,10.817; 122.433
 Iloilo,Anilao,11.000; 122.717
@@ -695,8 +695,8 @@ Iloilo,Sara,11.250; 123.017
 Iloilo,Tigbauan,10.717; 122.383
 Iloilo,Tubungan,10.783; 122.300
 Iloilo,Zarraga,10.817; 122.600
-Isabela,Cauayan City,""
-Isabela,Santiago City,""
+Isabela,Cauayan City,16.767; 121.783
+Isabela,Santiago City,-33.450; -70.667
 Isabela,Alicia,16.783; 121.700
 Isabela,Angadanan,16.750; 121.750
 Isabela,Aurora,16.99194; 121.63694
@@ -710,7 +710,7 @@ Isabela,Dinapigue,16.667; 122.350
 Isabela,Divilacan,17.333; 122.300
 Isabela,Echague,16.700; 121.650
 Isabela,Gamu,17.050; 121.833
-Isabela,Ilagan City,""
+Isabela,Ilagan City,17.13; 121.88
 Isabela,Jones,16.55806; 121.70694
 Isabela,Luna,16.967; 121.733
 Isabela,Maconacon,17.433; 122.233
@@ -740,7 +740,7 @@ Kalinga,Pinukpuk,17.600; 121.367
 Kalinga,Rizal,17.500; 121.600
 Kalinga,Tanudan,17.300; 121.233
 Kalinga,Tinglayan,17.283; 121.167
-La Union,San Fernando City,""
+La Union,San Fernando City,16.617; 120.317
 La Union,Agoo,16.32500; 120.36861
 La Union,Aringay,16.383; 120.417
 La Union,Bacnotan,16.717; 120.350
@@ -760,13 +760,13 @@ La Union,Santo Tomas,16.26361; 120.39389
 La Union,Santol,16.767; 120.450
 La Union,Sudipen,16.900; 120.450
 La Union,Tubao,16.350; 120.417
-Laguna,Biñan City,""
-Laguna,Calamba City,""
-Laguna,San Pablo City,""
-Laguna,Santa Rosa City,""
+Laguna,Biñan City,14.33; 121.08
+Laguna,Calamba City,14.22; 121.17
+Laguna,San Pablo City,14.07; 121.32
+Laguna,Santa Rosa City,14.32; 121.12
 Laguna,Alaminos,14.06306; 121.24806
 Laguna,Bay,14.183; 121.283
-Laguna,Cabuyao,""
+Laguna,Cabuyao,14.27833; 121.12472
 Laguna,Calauan,14.150; 121.317
 Laguna,Cavinti,14.250; 121.517
 Laguna,Famy,14.433; 121.450
@@ -790,7 +790,7 @@ Laguna,Santa Cruz,14.27861; 121.41556
 Laguna,Santa Maria,14.47000; 121.42611
 Laguna,Siniloan,14.417; 121.450
 Laguna,Victoria,14.22694; 121.32806
-Lanao del Norte,Iligan City,""
+Lanao del Norte,Iligan City,8.23; 124.25
 Lanao del Norte,Bacolod,8.183; 124.017
 Lanao del Norte,Baloi,8.117; 124.217
 Lanao del Norte,Baroy,8.033; 123.783
@@ -813,7 +813,7 @@ Lanao del Norte,Sultan Naga Dimaporo,7.783; 123.750
 Lanao del Norte,Tagoloan,8.133; 124.267
 Lanao del Norte,Tangcal,8.000; 124.000
 Lanao del Norte,Tubod,8.050; 123.800
-Lanao del Sur,Marawi City,""
+Lanao del Sur,Marawi City,8.000; 124.300
 Lanao del Sur,Bacolod-Kalawi,7.850; 124.133
 Lanao del Sur,Balabagan,7.533; 124.117
 Lanao del Sur,Balindong,7.917; 124.200
@@ -847,21 +847,21 @@ Lanao del Sur,Pualas,7.817; 124.067
 Lanao del Sur,Saguiaran,8.033; 124.267
 Lanao del Sur,Sultan Dumalondong,7.67778; 124.26778
 Lanao del Sur,Picong,7.683; 123.950
-Lanao del Sur,Tagoloan II,""
+Lanao del Sur,Tagoloan II,8.10917; 124.43917
 Lanao del Sur,Tamparan,7.883; 124.333
 Lanao del Sur,Taraka,7.900; 124.350
 Lanao del Sur,Tubaran,7.717; 124.167
 Lanao del Sur,Tugaya,7.883; 124.167
 Lanao del Sur,Wao,7.683; 124.683
-Leyte,Ormoc City,""
-Leyte,Tacloban City,""
+Leyte,Ormoc City,11.02; 124.62
+Leyte,Tacloban City,11.24; 125
 Leyte,Abuyog,10.733; 125.017
 Leyte,Alangalang,11.200; 124.850
 Leyte,Albuera,10.917; 124.700
 Leyte,Babatngon,11.417; 124.850
 Leyte,Barugo,11.317; 124.733
 Leyte,Bato,10.333; 124.800
-Leyte,Baybay,""
+Leyte,Baybay,10.683; 124.800
 Leyte,Burauen,10.983; 124.900
 Leyte,Calubian,11.450; 124.417
 Leyte,Capoocan,11.283; 124.650
@@ -879,7 +879,7 @@ Leyte,Kananga,11.183; 124.567
 Leyte,La Paz,10.883; 124.950
 Leyte,Leyte,11.367; 124.483
 Leyte,Liloan,""
-Leyte,MacArthur,""
+Leyte,MacArthur,10.850; 124.950
 Leyte,Mahaplag,10.583; 124.983
 Leyte,Matag-ob,11.117; 124.467
 Leyte,Matalom,10.283; 124.800
@@ -898,7 +898,7 @@ Leyte,Tanauan,11.12; 125.02
 Leyte,Tolosa,11.033; 125.017
 Leyte,Tunga,11.250; 124.750
 Leyte,Villaba,11.217; 124.400
-Maguindanao,Cotabato City,""
+Maguindanao,Cotabato City,7.2; 124.85
 Maguindanao,Ampatuan,6.867; 124.467
 Maguindanao,Barira,7.483; 124.300
 Maguindanao,Buldon,7.517; 124.367
@@ -933,7 +933,7 @@ Maguindanao,Sultan Kudarat,7.233; 124.250
 Maguindanao,Sultan Mastura,7.283; 124.300
 Maguindanao,Sultan sa Barongis,6.80000; 124.63333
 Maguindanao,Talayan,6.96667; 124.41667
-Maguindanao,Talitay,""
+Maguindanao,Talitay,6.99667; 124.70528
 Maguindanao,Upi,7.02889; 124.16500
 Marinduque,Boac,13.450; 121.833
 Marinduque,Buenavista,13.25389; 121.94361
@@ -941,7 +941,7 @@ Marinduque,Gasan,13.317; 121.850
 Marinduque,Mogpog,13.47444; 121.86139
 Marinduque,Santa Cruz,13.47667; 122.02667
 Marinduque,Torrijos,13.317; 122.083
-Masbate,Masbate City,""
+Masbate,Masbate City,12.17; 123.58
 Masbate,Aroroy,12.500; 123.400
 Masbate,Baleno,12.467; 123.483
 Masbate,Balud,12.033; 123.200
@@ -962,26 +962,26 @@ Masbate,San Fernando,12.483; 123.750
 Masbate,San Jacinto,12.567; 123.733
 Masbate,San Pascual,13.133; 122.983
 Masbate,Uson,12.217; 123.783
-Metro Manila,Caloocan,""
-Metro Manila,Las Piñas,""
-Metro Manila,Makati,""
-Metro Manila,Malabon,""
-Metro Manila,Mandaluyong,""
-Metro Manila,Manila,""
-Metro Manila,Marikina,""
-Metro Manila,Muntinlupa,""
-Metro Manila,Navotas,""
-Metro Manila,Parañaque,""
-Metro Manila,Pasay,""
+Metro Manila,Caloocan,14.65; 120.97
+Metro Manila,Las Piñas,14.45; 120.98
+Metro Manila,Makati,14.55; 121.03
+Metro Manila,Malabon,14.66; 120.96
+Metro Manila,Mandaluyong,14.58; 121.03
+Metro Manila,Manila,14.58; 121
+Metro Manila,Marikina,14.65; 121.1
+Metro Manila,Muntinlupa,14.38; 121.05
+Metro Manila,Navotas,14.6667; 120.9417
+Metro Manila,Parañaque,14.47; 121.02
+Metro Manila,Pasay,14.55; 121
 Metro Manila,Pasig,""
-Metro Manila,Quezon City,""
-Metro Manila,San Juan City,""
-Metro Manila,Taguig,""
+Metro Manila,Quezon City,14.63; 121.03
+Metro Manila,San Juan City,14.6; 121.03
+Metro Manila,Taguig,14.52; 121.05
 Metro Manila,Valenzuela City,""
 Metro Manila,Pateros,14.5417; 121.0667
-Misamis Occidental,Oroquieta City,""
-Misamis Occidental,Ozamiz City,""
-Misamis Occidental,Tangub City,""
+Misamis Occidental,Oroquieta City,8.483; 123.800
+Misamis Occidental,Ozamiz City,8.15; 123.85
+Misamis Occidental,Tangub City,8.067; 123.750
 Misamis Occidental,Aloran,8.417; 123.817
 Misamis Occidental,Baliangao,8.667; 123.600
 Misamis Occidental,Bonifacio,8.100; 123.600
@@ -996,8 +996,8 @@ Misamis Occidental,Plaridel,8.617; 123.700
 Misamis Occidental,Sapang Dalaga,8.550; 123.567
 Misamis Occidental,Sinacaban,8.283; 123.733
 Misamis Occidental,Tudela,8.250; 123.833
-Misamis Oriental,Cagayan de Oro,""
-Misamis Oriental,Gingoog City,""
+Misamis Oriental,Cagayan de Oro,8.48; 124.65
+Misamis Oriental,Gingoog City,8.817; 125.100
 Misamis Oriental,Alubijid,8.567; 124.467
 Misamis Oriental,Balingasag,8.750; 124.783
 Misamis Oriental,Balingoan,9.000; 124.850
@@ -1032,19 +1032,19 @@ Mountain Province,Sabangan,16.950; 120.917
 Mountain Province,Sadanga,17.167; 121.033
 Mountain Province,Sagada,17.083; 120.900
 Mountain Province,Tadian,17.000; 120.817
-Negros Occidental,Bacolod City,""
-Negros Occidental,Bago City,""
-Negros Occidental,Cadiz City,""
-Negros Occidental,Escalante City,""
-Negros Occidental,Himamaylan City,""
-Negros Occidental,Kabankalan City,""
+Negros Occidental,Bacolod City,10.67; 122.95
+Negros Occidental,Bago City,10.533; 122.833
+Negros Occidental,Cadiz City,10.950; 123.300
+Negros Occidental,Escalante City,10.833; 123.500
+Negros Occidental,Himamaylan City,10.100; 122.867
+Negros Occidental,Kabankalan City,9.983; 122.817
 Negros Occidental,La Carlota City,""
-Negros Occidental,Sagay City,""
-Negros Occidental,San Carlos City,""
-Negros Occidental,Silay City,""
-Negros Occidental,Sipalay City,""
-Negros Occidental,Talisay City,""
-Negros Occidental,Victorias City,""
+Negros Occidental,Sagay City,10.900; 123.417
+Negros Occidental,San Carlos City,10.42; 123.38
+Negros Occidental,Silay City,10.800; 122.967
+Negros Occidental,Sipalay City,9.750; 122.400
+Negros Occidental,Talisay City,10.733; 122.967
+Negros Occidental,Victorias City,10.900; 123.083
 Negros Occidental,Binalbagan,10.200; 122.867
 Negros Occidental,Calatrava,10.600; 123.483
 Negros Occidental,Candoni,9.8310444; 122.6429806
@@ -1064,12 +1064,12 @@ Negros Occidental,Salvador Benedicto,10.550; 123.233
 Negros Occidental,San Enrique,10.417; 122.850
 Negros Occidental,Toboso,10.717; 123.517
 Negros Occidental,Valladolid,10.467; 122.833
-Negros Oriental,Bais City,""
-Negros Oriental,Bayawan City,""
-Negros Oriental,Canlaon City,""
-Negros Oriental,Guihulngan City,""
-Negros Oriental,Dumaguete City,""
-Negros Oriental,Tanjay City,""
+Negros Oriental,Bais City,9.583; 123.117
+Negros Oriental,Bayawan City,9.367; 122.800
+Negros Oriental,Canlaon City,10.383; 123.200
+Negros Oriental,Guihulngan City,10.117; 123.267
+Negros Oriental,Dumaguete City,9.317; 123.300
+Negros Oriental,Tanjay City,9.517; 123.1583
 Negros Oriental,Amlan,9.450; 123.233
 Negros Oriental,Ayungon,9.850; 123.133
 Negros Oriental,Bacong,9.250; 123.283
@@ -1113,11 +1113,11 @@ Northern Samar,San Roque,""
 Northern Samar,San Vicente,12.35; 124.05
 Northern Samar,Silvino Lobos,12.300; 124.833
 Northern Samar,Victoria,12.450; 124.317
-Nueva Ecija,Cabanatuan City,""
-Nueva Ecija,Gapan City,""
-Nueva Ecija,Science City of Muñoz,""
-Nueva Ecija,Palayan City,""
-Nueva Ecija,San Jose City,""
+Nueva Ecija,Cabanatuan City,15.48; 120.97
+Nueva Ecija,Gapan City,15.283; 120.967
+Nueva Ecija,Science City of Muñoz,15.717; 120.900
+Nueva Ecija,Palayan City,15.533; 121.083
+Nueva Ecija,San Jose City,15.783; 121.000
 Nueva Ecija,Aliaga,15.50000; 120.84389
 Nueva Ecija,Bongabon,15.63111; 121.14389
 Nueva Ecija,Cabiao,15.250; 120.850
@@ -1171,7 +1171,7 @@ Occidental Mindoro,Rizal,12.467; 120.967
 Occidental Mindoro,Sablayan,12.817; 120.767
 Occidental Mindoro,San Jose,12.350; 121.067
 Occidental Mindoro,Santa Cruz,13.117; 120.850
-Oriental Mindoro,Calapan City,""
+Oriental Mindoro,Calapan City,13.400; 121.183
 Oriental Mindoro,Baco,13.41250; 121.12861
 Oriental Mindoro,Bansud,12.833; 121.367
 Oriental Mindoro,Bongabong,12.717; 121.367
@@ -1186,7 +1186,7 @@ Oriental Mindoro,Roxas,12.583; 121.500
 Oriental Mindoro,San Teodoro,13.433; 121.017
 Oriental Mindoro,Socorro,13.067; 121.400
 Oriental Mindoro,Victoria,13.367; 121.200
-Palawan,Puerto Princesa City,""
+Palawan,Puerto Princesa City,9.75; 118.75
 Palawan,Aborlan,9.433; 118.550
 Palawan,Agutaya,11.150; 120.950
 Palawan,Araceli,10.333; 119.600
@@ -1210,8 +1210,8 @@ Palawan,Roxas,10.333; 119.333
 Palawan,San Vicente,10.533; 119.283
 Palawan,Sofronio Española,9.050; 118.033
 Palawan,Taytay,10.817; 119.517
-Pampanga,Angeles City,""
-Pampanga,City of San Fernando,""
+Pampanga,Angeles City,15.15; 120.58
+Pampanga,City of San Fernando,15.033; 120.683
 Pampanga,Apalit,14.950; 120.767
 Pampanga,Arayat,15.150; 120.767
 Pampanga,Bacolor,15.000; 120.650
@@ -1219,7 +1219,7 @@ Pampanga,Candaba,15.09333; 120.82833
 Pampanga,Floridablanca,14.933; 120.500
 Pampanga,Guagua,14.967; 120.633
 Pampanga,Lubao,14.933; 120.600
-Pampanga,Mabalacat,""
+Pampanga,Mabalacat,15.217; 120.583
 Pampanga,Macabebe,14.90806; 120.71556
 Pampanga,Magalang,15.217; 120.667
 Pampanga,Masantol,14.900; 120.717
@@ -1232,10 +1232,10 @@ Pampanga,Santa Ana,15.09389; 120.76806
 Pampanga,Santa Rita,14.99528; 120.61528
 Pampanga,Santo Tomas,14.967; 120.717
 Pampanga,Sasmuan,14.933; 120.617
-Pangasinan,Alaminos City,""
-Pangasinan,Dagupan City,""
-Pangasinan,San Carlos City,""
-Pangasinan,Urdaneta City,""
+Pangasinan,Alaminos City,16.16028; 119.98028
+Pangasinan,Dagupan City,16.03; 120.33
+Pangasinan,San Carlos City,15.92806; 120.34889
+Pangasinan,Urdaneta City,15.97611; 120.57111
 Pangasinan,Agno,16.117; 119.800
 Pangasinan,Aguilar,15.833; 120.200
 Pangasinan,Alcala,15.84722; 120.52417
@@ -1264,7 +1264,7 @@ Pangasinan,Mangaldan,16.067; 120.400
 Pangasinan,Mangatarem,15.783; 120.300
 Pangasinan,Mapandan,16.017; 120.450
 Pangasinan,Natividad,16.050; 120.817
-Pangasinan,Pozzorubio,""
+Pangasinan,Pozzorubio,16.117; 120.550
 Pangasinan,Rosales,15.883; 120.633
 Pangasinan,San Fabian,16.150; 120.450
 Pangasinan,San Jacinto,16.07250; 120.44111
@@ -1281,7 +1281,7 @@ Pangasinan,Umingan,15.900; 120.800
 Pangasinan,Urbiztondo,15.817; 120.350
 Pangasinan,Villasis,15.900; 120.583
 Quezon,Lucena City,""
-Quezon,Tayabas City,""
+Quezon,Tayabas City,14.017; 121.583
 Quezon,Agdangan,13.867; 121.917
 Quezon,Alabat,14.100; 122.017
 Quezon,Atimonan,14.000; 121.917
@@ -1327,7 +1327,7 @@ Quirino,Diffun,16.600; 121.467
 Quirino,Maddela,16.350; 121.700
 Quirino,Nagtipunan,16.217; 121.600
 Quirino,Saguday,16.517; 121.600
-Rizal,Antipolo City,""
+Rizal,Antipolo City,14.583; 121.167
 Rizal,Angono,14.533; 121.150
 Rizal,Baras,14.517; 121.267
 Rizal,Binangonan,14.45139; 121.19194
@@ -1358,8 +1358,8 @@ Romblon,San Fernando,12.317; 122.600
 Romblon,San Jose,12.067; 121.933
 Romblon,Santa Fe,12.150; 122.000
 Romblon,Santa Maria,12.450; 122.100
-Samar,Calbayog City,""
-Samar,Catbalogan City,""
+Samar,Calbayog City,12.07; 124.6
+Samar,Catbalogan City,11.783; 124.883
 Samar,Almagro,11.917; 124.283
 Samar,Basey,11.283; 125.067
 Samar,Calbiga,11.633; 125.017
@@ -1374,7 +1374,7 @@ Samar,Pagsanghan,11.967; 124.800
 Samar,Paranas,11.850; 125.117
 Samar,Pinabacdao,11.617; 124.983
 Samar,San Jorge,11.983; 124.817
-Samar,San Jose De Buan,""
+Samar,San Jose De Buan,12.05; 125.07
 Samar,San Sebastian,11.700; 125.017
 Samar,Santa Margarita,12.033; 124.667
 Samar,Santa Rita,11.467; 124.950
@@ -1397,7 +1397,7 @@ Siquijor,Lazi,9.13; 123.63
 Siquijor,Maria,9.2; 123.65
 Siquijor,San Juan,9.17; 123.5
 Siquijor,Siquijor,9.22; 123.52
-Sorsogon,Sorsogon City,""
+Sorsogon,Sorsogon City,12.97; 124
 Sorsogon,Barcelona,12.867; 124.133
 Sorsogon,Bulan,12.667; 123.883
 Sorsogon,Bulusan,12.750; 124.117
@@ -1412,8 +1412,8 @@ Sorsogon,Matnog,12.583; 124.083
 Sorsogon,Pilar,12.933; 123.683
 Sorsogon,Prieto Diaz,13.033; 124.183
 Sorsogon,Santa Magdalena,12.650; 124.100
-South Cotabato,General Santos City,""
-South Cotabato,Koronadal City,""
+South Cotabato,General Santos City,6.12; 125.17
+South Cotabato,Koronadal City,6.5; 124.85
 South Cotabato,Banga,6.300; 124.783
 South Cotabato,Lake Sebu,6.217; 124.700
 South Cotabato,Norala,6.550; 124.667
@@ -1424,7 +1424,7 @@ South Cotabato,Tboli,""
 South Cotabato,Tampakan,6.450; 124.933
 South Cotabato,Tantangan,6.617; 124.750
 South Cotabato,Tupi,6.333; 124.950
-Southern Leyte,Maasin City,""
+Southern Leyte,Maasin City,10.133; 124.850
 Southern Leyte,Anahawan,10.283; 125.250
 Southern Leyte,Bontoc,10.350; 124.967
 Southern Leyte,Hinunangan,10.400; 125.200
@@ -1443,7 +1443,7 @@ Southern Leyte,San Ricardo,9.917; 125.283
 Southern Leyte,Silago,10.533; 125.150
 Southern Leyte,Sogod,10.383; 124.983
 Southern Leyte,Tomas Oppus,10.250; 124.983
-Sultan Kudarat,Tacurong City,""
+Sultan Kudarat,Tacurong City,6.683; 124.667
 Sultan Kudarat,Bagumbayan,6.533; 124.567
 Sultan Kudarat,Columbio,6.700; 124.933
 Sultan Kudarat,Esperanza,6.717; 124.517
@@ -1474,20 +1474,20 @@ Sulu,Patikul,6.067; 121.100
 Sulu,Siasi,5.550; 120.817
 Sulu,Talipao,5.933; 121.100
 Sulu,Tapul,5.717; 120.900
-Surigao del Norte,Surigao City,""
+Surigao del Norte,Surigao City,9.78; 125.48
 Surigao del Norte,Alegria,9.467; 125.583
 Surigao del Norte,Bacuag,9.600; 125.633
-Surigao del Norte,Basilisa,""
+Surigao del Norte,Basilisa,10.067; 125.600
 Surigao del Norte,Burgos,10.017; 126.067
-Surigao del Norte,Cagdianao,""
+Surigao del Norte,Cagdianao,9.917; 125.667
 Surigao del Norte,Claver,9.567; 125.733
 Surigao del Norte,Dapa,9.767; 126.050
 Surigao del Norte,Del Carmen,9.867; 125.967
-Surigao del Norte,Dinagat,""
+Surigao del Norte,Dinagat,9.950; 125.617
 Surigao del Norte,General Luna,9.800; 126.133
 Surigao del Norte,Gigaquit,9.583; 125.700
-Surigao del Norte,Libjo,""
-Surigao del Norte,Loreto,""
+Surigao del Norte,Libjo,10.200; 125.567
+Surigao del Norte,Loreto,10.350; 125.617
 Surigao del Norte,Mainit,9.533; 125.517
 Surigao del Norte,Malimono,9.617; 125.400
 Surigao del Norte,Pilar,9.867; 126.100
@@ -1495,15 +1495,15 @@ Surigao del Norte,Placer,9.650; 125.600
 Surigao del Norte,San Benito,9.950; 126.017
 Surigao del Norte,San Francisco,9.733; 125.417
 Surigao del Norte,San Isidro,9.933; 126.083
-Surigao del Norte,San Jose,""
+Surigao del Norte,San Jose,10.00833; 125.58889
 Surigao del Norte,Santa Monica,10.01944; 126.03889
 Surigao del Norte,Sison,9.667; 125.533
 Surigao del Norte,Socorro,9.633; 125.950
 Surigao del Norte,Tagana-an,9.700; 125.583
-Surigao del Norte,Tubajon,""
+Surigao del Norte,Tubajon,10.300; 125.567
 Surigao del Norte,Tubod,9.567; 125.567
-Surigao del Sur,Bislig City,""
-Surigao del Sur,Tandag City,""
+Surigao del Sur,Bislig City,8.183; 126.350
+Surigao del Sur,Tandag City,9.067; 126.183
 Surigao del Sur,Barobo,8.550; 126.200
 Surigao del Sur,Bayabas,8.967; 126.267
 Surigao del Sur,Cagwait,8.917; 126.300
@@ -1521,7 +1521,7 @@ Surigao del Sur,San Agustin,8.733; 126.133
 Surigao del Sur,San Miguel,8.883; 126.000
 Surigao del Sur,Tagbina,8.450; 126.167
 Surigao del Sur,Tago,8.967; 126.150
-Tarlac,Tarlac City,""
+Tarlac,Tarlac City,15.467; 120.583
 Tarlac,Anao,15.72889; 120.62611
 Tarlac,Bamban,15.283; 120.567
 Tarlac,Camiling,15.700; 120.417
@@ -1550,7 +1550,7 @@ Tawi-Tawi,Sitangkai,4.667; 119.400
 Tawi-Tawi,South Ubian,5.183; 120.483
 Tawi-Tawi,Tandubas,5.250; 120.283
 Tawi-Tawi,Turtle Islands,6.083; 118.317
-Zambales,Olongapo City,""
+Zambales,Olongapo City,14.83; 120.28
 Zambales,Botolan,15.283; 120.017
 Zambales,Cabangan,15.133; 120.150
 Zambales,Candelaria,15.633; 119.933
@@ -1564,9 +1564,9 @@ Zambales,San Marcelino,14.967; 120.150
 Zambales,San Narciso,15.017; 120.083
 Zambales,Santa Cruz,15.767; 119.917
 Zambales,Subic,14.900; 120.233
-Zamboanga del Norte,Dapitan City,""
-Zamboanga del Norte,Dipolog City,""
-Zamboanga del Norte,Bacungan,""
+Zamboanga del Norte,Dapitan City,8.650; 123.417
+Zamboanga del Norte,Dipolog City,8.567; 123.333
+Zamboanga del Norte,Bacungan,8.083; 122.933
 Zamboanga del Norte,Baliguian,7.817; 122.250
 Zamboanga del Norte,Godod,8.000; 122.817
 Zamboanga del Norte,Gutalac,7.983; 122.400
@@ -1591,7 +1591,7 @@ Zamboanga del Norte,Sindangan,8.233; 123.000
 Zamboanga del Norte,Siocon,7.700; 122.133
 Zamboanga del Norte,Sirawai,7.583; 122.133
 Zamboanga del Norte,Tampilisan,8.017; 122.683
-Zamboanga del Sur,Pagadian City,""
+Zamboanga del Sur,Pagadian City,7.83; 123.43
 Zamboanga del Sur,Zamboanga City,""
 Zamboanga del Sur,Aurora,7.950; 123.583
 Zamboanga del Sur,Bayog,7.867; 123.033
